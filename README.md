@@ -1,2 +1,17 @@
-# beyond-basics-store
-Beyond Basics Store – A modern clothing e-commerce project showcasing a clean UI, product listings, and shopping features. Built to explore web development and design practices while creating a fashion-focused online store experience.
+Beyond Basics Store
+
+A simple clothing e-commerce website built with HTML and CSS. The project showcases a clean layout, stylish product sections, and a modern storefront design.
+
+Features
+
+Home page with branding and navigation
+
+Product showcase with categories
+
+Minimal and modern styling
+
+Tech Stack
+
+HTML5 – structure
+
+CSS3 – styling and responsiveness
